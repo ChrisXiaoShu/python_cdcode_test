@@ -6,3 +6,4 @@ if __name__ == "__main__":
     show("hello 2")
     show("hello 44")
     show("hello git test sucess")
+    show("another git test2")
